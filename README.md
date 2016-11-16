@@ -1,3 +1,3 @@
- # Smart Handle
+# Smart Handle
 
 Team 12
