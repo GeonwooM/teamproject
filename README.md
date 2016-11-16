@@ -20,7 +20,8 @@
  1. Sober Steering 스마트 핸들
   : 핸들의 알코올 검출 센서가 피부 및 호흡을 통해 알코올 성분을 감지하고 운전을 제한
  ![alt text](http://cfile29.uf.tistory.com/image/27569F4F5673B066175CC0)
-[관련소식](http://cartoday.tistory.com/166)
+
+자세히 알고 싶다면 [관련소식](http://cartoday.tistory.com/166)을 클릭하세요.
  
  2. 동작, 안면, 눈, 입모양 인지를 통한 졸음운전 방지 장치
   : 운전자의 동작, 안면, 눈동자, 입모양 등의 다양한 판단 기준을 통하여 운전자의 졸음운전 여부를 확인하고 이를 미연에 방지 
@@ -37,4 +38,4 @@
 
 또 [여기][1]를 클릭하면 처벌기준에 좀 더 자세히 알수있다.
 
-[1]:[1]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=4922906&memberNo=23315462&vType=VERTICAL
+[1]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=4922906&memberNo=23315462&vType=VERTICAL
